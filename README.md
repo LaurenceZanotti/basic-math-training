@@ -1,4 +1,4 @@
-# Faça cálculos em 60 cálculos em 60 segundos
+# Faça 60 cálculos em 60 segundos
 
 Treinamento de contas de matemática básica baseado no capítulo 1 do livro [Matemática para Vencer](https://www.laercio.com.br/wp-content/uploads/2015/12/apostila_matematica_para_vencer_10.pdf) de [Laércio Vasconcelos](https://www.laercio.com.br/). O objetivo é fazer uma série de cálculos de cabeça em menos de 60 segundos.
 
